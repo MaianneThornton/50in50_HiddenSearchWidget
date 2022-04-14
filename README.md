@@ -1,4 +1,4 @@
-# 50 Projects in 50 Days - ProgressSteps
+# 50 Projects in 50 Days - Hidden Search Widget
 
 This is a code along project in the [50 Projects In 50 Days - HTML, CSS & JavaScript Udemy Course](https://www.udemy.com/course/50-projects-50-days/). Sharpen your skills by building 50 quick, unique & fun mini projects.
 
